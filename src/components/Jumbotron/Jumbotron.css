@@ -1,0 +1,28 @@
+/*JUMBOTRON*/
+.jumbotron {
+	background-image: url("https://www.bates.edu/wordpress/files/2016/07/texture-07.jpg");
+	background-color: coral;
+    background-blend-mode: lighten;
+    background-repeat: no-repeat;
+	background-position: center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	margin-bottom: 0px;
+    text-align: center;
+}
+
+.jumbotron h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 55px;
+	text-transform: uppercase;
+	font-weight: 800;
+	color: #5b195ec9;
+}
+
+.jumbotron p {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	font-weight: 500;
+	margin-top: 18px;
+	margin-bottom: -16px;
+}
