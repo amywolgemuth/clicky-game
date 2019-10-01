@@ -4,8 +4,8 @@ Memory game built with React.
 Trilogy Full-Stack Coding Bootcamp - offered by Vanderbilt University
 Week 20 Homework Assignment: React Game Application
 
-##Live App:
-https://amywolgemuth.github.io/clicky-game/ - automatic!
+## Live App:
+https://amywolgemuth.github.io/clicky-game/
 [GitHub] (Check out the live app here)
 
 ### Overview
