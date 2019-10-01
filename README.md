@@ -5,8 +5,8 @@ Trilogy Full-Stack Coding Bootcamp - offered by Vanderbilt University
 Week 20 Homework Assignment: React Game Application
 
 ## Live App:
-https://amywolgemuth.github.io/clicky-game/
-[GitHub] (Check out the live app here)
+[Check out the live app here](https://amywolgemuth.github.io/clicky-game/)
+
 
 ### Overview
 For this assignment, I created a memory game with React. This assignment required me to break up my application's UI into components, manage component state, and respond to user events.
